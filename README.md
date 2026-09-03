@@ -51,4 +51,22 @@
   <img src="https://skillicons.dev/icons?i=github" width="45" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=vscode" width="45" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/Shahin6452">
+  <img src="./assets/facebook.png" width="45" style="margin-right: 10px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-shahin-alam-43518b195/">
+  <img src="./assets/linkedin.png" width="45" style="margin-right: 10px;" />
+</a>
+
+<a href="https://github.com/shahin6452">
+  <img src="./assets/github.png" width="45" />
+</a>
+
+</p>
   
