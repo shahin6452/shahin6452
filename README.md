@@ -9,3 +9,11 @@
 </p>
 
 
+- 👋 Hi, I'm Shahin.
+- 🌱 I'm currently learning the MERN Stack and exploring modern web development.
+- ⚛️ Currently learning and building projects with React.js.
+- 💻 Improving my JavaScript skills through hands-on practice and projects.
+- 🤖 Interested in AI Engineering and exploring the possibilities of AI.
+- 🧩 I enjoy learning, solving problems, and building things with code.
+
+  
